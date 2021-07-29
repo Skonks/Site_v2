@@ -22,11 +22,16 @@ h1#logo {
 }
 
 /*! MAIN */
+#photos{
+    margin: 10px 2px 0 2px;
+    padding: 10px;
+}
+
 h2#subtitle {
     text-align: center;
     font-weight: normal;
 
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
-/*! FOOTER */F
+/*! FOOTER */
