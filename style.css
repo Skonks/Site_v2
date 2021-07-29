@@ -29,29 +29,29 @@ h2#subtitle {
   margin-top: 5%;
 }
 
-#yukie {
+.yukie {
   position: relative;
   margin-top: 5%;
   margin-left: 10%;
   padding-right: 10px;
   padding-left: 10px;
 }
-#chris {
+.chris {
   position: relative;
   padding-right: 10px;
   padding-left: 10px;
 }
-#momoyo {
+.momoyo {
   position: relative;
   padding-right: 10px;
   padding-left: 10px;
 }
-#miyako {
+.miyako {
   position: relative;
   padding-right: 10px;
   padding-left: 10px;
 }
-#kazuko {
+.kazuko {
   position: relative;
   padding-right: 10px;
   padding-left: 10px;
