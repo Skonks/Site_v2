@@ -3,16 +3,23 @@
   padding: 0;
   box-sizing: border-box; /* A partir da borda */
 }
+body {
+  background: #f0f2f5;
+}
 
 /* HEADER */
 header {
-    background: green;
+  background: rgb(27, 27, 27);
+
+  padding: 2rem 0 2rem;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+h1#logo {
+  color: white;
+  text-align: center;
 }
 
-#logo {
-    right: 39%;
-    position: absolute;
-}
 /* MAIN */
 
 /* FOOTER */
