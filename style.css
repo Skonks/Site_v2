@@ -1,3 +1,4 @@
+/*! GLOBAL */
 * {
   margin: 0;
   padding: 0;
@@ -6,8 +7,6 @@
 body {
   background: #f0f2f5;
 }
-
-/* HEADER */
 header {
   background: rgb(27, 27, 27);
 
@@ -15,11 +14,13 @@ header {
   margin-left: 10px;
   margin-right: 10px;
 }
+
+/*! HEADER */
 h1#logo {
   color: white;
   text-align: center;
 }
 
-/* MAIN */
+/*! MAIN */
 
-/* FOOTER */
+/*! FOOTER */
