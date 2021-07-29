@@ -6,11 +6,13 @@
 
 /* HEADER */
 header {
-  background: green;
-
-  padding: 0.5rem 0 3rem;
+    background: green;
 }
 
+#logo {
+    right: 39%;
+    position: absolute;
+}
 /* MAIN */
 
 /* FOOTER */
