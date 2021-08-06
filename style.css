@@ -36,11 +36,16 @@ h2#subtitle {
   margin-left: 0.5rem;
 }
 
-
-a{
+a {
   color: black;
+  font-weight: bold;
   text-decoration: none;
 }
+
+a:hover {
+  color: brown;
+}
+
 .nomepersonagem {
   font-size: large;
   word-spacing: 12.5rem;
@@ -50,7 +55,7 @@ a{
 }
 
 /*! FOOTER */
-footer{
+footer {
   background-image: url(./files/logo.png);
   background-position: bottom;
 }
