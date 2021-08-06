@@ -36,12 +36,17 @@ h2#subtitle {
   margin-left: 0.5rem;
 }
 
+
+a{
+  color: black;
+  text-decoration: none;
+}
 .nomepersonagem {
   font-size: large;
   word-spacing: 12.5rem;
 
   margin-top: 10px;
-  margin-left: 9%;
+  margin-left: 7.5%;
 }
 
 /*! FOOTER */
