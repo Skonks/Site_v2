@@ -13,12 +13,6 @@ header {
   margin-right: 10px;
 }
 
-body{
-  background-image: url(./files/logo.png);
-  background-repeat: no-repeat;
-  background-position:center bottom;
-}
-
 /*! HEADER */
 h1#logo {
   color: white;
