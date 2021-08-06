@@ -52,10 +52,12 @@ a:hover {
 
   margin-top: 10px;
   margin-left: 7.5%;
+
+  font-family: "Roboto", sans-serif;
 }
 
 /*! FOOTER */
 footer {
   background-image: url(./files/logo.png);
-  background-position: bottom;
+  height: 0%;
 }
