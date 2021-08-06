@@ -34,25 +34,17 @@ h2#subtitle {
   margin-top: 5%;
 }
 
-.yukie {
-  position: relative;
-  margin-top: 5%;
-  margin-left: 2.5%;
-  padding-right: 10px;
-  padding-left: 10px;
+.personagens {
+  display: inline;
+  margin-left: 0.5rem;
 }
-.chris,
-.momoyo,
-.miyako,
-.kazuko {
-  padding-right: 10px;
-  padding-left: 10px;
-}
+
 .nomepersonagem {
   font-size: large;
   word-spacing: 12.5rem;
 
   margin-top: 10px;
-  margin-left: 10%;
+  margin-left: 9%;
 }
+
 /*! FOOTER */
