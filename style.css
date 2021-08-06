@@ -8,18 +8,9 @@
 header {
   background: rgb(27, 27, 27);
 
-  padding: 2rem 0 2rem;
+  padding: 0.5rem 0 1rem;
   margin-left: 10px;
   margin-right: 10px;
-}
-
-body{
-  background-image: url(./files/logo.png);
-  background-repeat: no-repeat;
-  background-size: 150px 100px;
-
-  background-position: center;
-  height: 1150px;
 }
 
 /*! HEADER */
@@ -66,3 +57,12 @@ a:hover {
 }
 
 /*! FOOTER */
+footer{
+  margin-top: 151px;
+  text-align: center;
+
+  margin-left: 10px;
+  margin-right: 10px;
+
+  border: 1px solid black;
+}
