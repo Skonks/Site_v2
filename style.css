@@ -5,7 +5,7 @@
   box-sizing: border-box; /* A partir da borda */
 }
 html {
-  background-image: url(./files/kanji.png) no-repeat center center fixed;
+  background-image: url(./files/kanji.png) no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -48,25 +48,18 @@ h2#subtitle {
   padding-right: 10px;
   padding-left: 10px;
 }
-.chris {
-  position: relative;
-  padding-right: 10px;
-  padding-left: 10px;
-}
-.momoyo {
-  position: relative;
-  padding-right: 10px;
-  padding-left: 10px;
-}
-.miyako {
-  position: relative;
-  padding-right: 10px;
-  padding-left: 10px;
-}
+.chris,
+.momoyo,
+.miyako,
 .kazuko {
-  position: relative;
   padding-right: 10px;
   padding-left: 10px;
 }
+.nomepersonagem{
+  font-size: large;
+  word-spacing: 12.5rem;
 
+  margin-top: 10px;
+  margin-left: 10%;
+}
 /*! FOOTER */
