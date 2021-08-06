@@ -5,10 +5,6 @@
   box-sizing: border-box; /* A partir da borda */
 }
 
-body {
-  background: #f0f2f5;
-}
-
 header {
   background: rgb(27, 27, 27);
 
@@ -31,11 +27,12 @@ h2#subtitle {
   font-weight: normal;
   font-family: "Roboto", sans-serif;
 
-  margin-top: 5%;
+  margin-top: 2%;
 }
 
 .personagens {
-  display: inline;
+  display: inline-flex;
+  margin-top: 2.5rem;
   margin-left: 0.5rem;
 }
 
@@ -48,3 +45,7 @@ h2#subtitle {
 }
 
 /*! FOOTER */
+footer{
+  background-image: url(./files/logo.png);
+  background-position: bottom;
+}
