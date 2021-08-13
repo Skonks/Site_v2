@@ -4,6 +4,9 @@
   padding: 0;
   box-sizing: border-box; /* A partir da borda */
 }
+body{
+  background-color: rgb(241, 240, 238);
+}
 
 header {
   background: rgb(27, 27, 27);
