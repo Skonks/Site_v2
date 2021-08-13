@@ -7,8 +7,10 @@
 
 header {
   background: rgb(27, 27, 27);
+  border-radius: 0.5rem;
 
   padding: 0.5rem 0 1rem;
+  margin-top: -10px;
   margin-left: 10px;
   margin-right: 10px;
 }
@@ -33,6 +35,8 @@ h2#subtitle {
 .personagens {
   display: inline-flex;
 
+
+  margin-top: 50px;
   margin-left: 1.1rem;
 }
 
@@ -58,7 +62,7 @@ a:hover {
 
 /*! FOOTER */
 footer {
-  margin-top: 151px;
+  margin-top: 119px;
   text-align: center;
 
   margin-left: 10px;
@@ -70,7 +74,4 @@ footer {
 footer .icons {
   display: inline;
 
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-top: 151px;
 }
