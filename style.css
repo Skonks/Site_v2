@@ -4,7 +4,7 @@
   padding: 0;
   box-sizing: border-box; /* A partir da borda */
 }
-body{
+body {
   background-color: rgb(241, 240, 238);
 }
 
@@ -38,7 +38,6 @@ h2#subtitle {
 .personagens {
   display: inline-flex;
 
-
   margin-top: 50px;
   margin-left: 1.4rem;
 }
@@ -54,7 +53,7 @@ a:hover {
 }
 
 .nomepersonagem {
-  display: inline-flexbox;
+  display: inline;
   font-size: large;
   word-spacing: 12.5rem;
 
@@ -76,5 +75,4 @@ footer {
 
 footer .icons {
   display: inline;
-
 }
