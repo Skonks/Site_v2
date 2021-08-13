@@ -32,8 +32,9 @@ h2#subtitle {
 
 .personagens {
   display: inline-flex;
-  margin-top: 2.5rem;
-  margin-left: 0.5rem;
+
+  margin-top: 1.3rem;
+  margin-left: 0.6rem;
 }
 
 a {
@@ -50,14 +51,13 @@ a:hover {
   font-size: large;
   word-spacing: 12.5rem;
 
-  margin-top: 10px;
   margin-left: 7.5%;
 
   font-family: "Roboto", sans-serif;
 }
 
 /*! FOOTER */
-footer{
+footer {
   margin-top: 151px;
   text-align: center;
 
@@ -65,4 +65,8 @@ footer{
   margin-right: 10px;
 
   border-radius: 10px;
+}
+
+footer .icons {
+  display: inline-flex;
 }
