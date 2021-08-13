@@ -47,6 +47,7 @@ a:hover {
 }
 
 .nomepersonagem {
+  display: inline;
   font-size: large;
   word-spacing: 12.5rem;
 
