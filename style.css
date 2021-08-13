@@ -27,14 +27,13 @@ h2#subtitle {
   font-weight: normal;
   font-family: "Roboto", sans-serif;
 
-  margin-top: 2%;
+  margin-top: 4%;
 }
 
 .personagens {
   display: inline-flex;
 
-  margin-top: 1.3rem;
-  margin-left: 0.6rem;
+  margin-left: 1.1rem;
 }
 
 a {
@@ -68,5 +67,9 @@ footer {
 }
 
 footer .icons {
-  display: inline-flex;
+  display: inline;
+
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 151px;
 }
