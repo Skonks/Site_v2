@@ -26,10 +26,10 @@ h1#logo {
 /*! MAIN */
 h2#subtitle {
   text-align: center;
-  font-weight: normal;
+  font-weight: bold;
   font-family: "Roboto", sans-serif;
 
-  margin-top: 4%;
+  margin-top: 3%;
 }
 
 .personagens {
@@ -37,7 +37,7 @@ h2#subtitle {
 
 
   margin-top: 50px;
-  margin-left: 1.1rem;
+  margin-left: 1.4rem;
 }
 
 a {
@@ -51,7 +51,7 @@ a:hover {
 }
 
 .nomepersonagem {
-  display: inline;
+  display: inline-flexbox;
   font-size: large;
   word-spacing: 12.5rem;
 
